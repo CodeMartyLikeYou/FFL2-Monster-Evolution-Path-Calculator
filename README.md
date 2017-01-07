@@ -13,4 +13,4 @@ Alternatively if you are on Windows, just download and run FFL2MonsterEvo.exe.
 #Notes
 Data used by this program was sourced from http://www.shenafu.com/ffl2/ffl2.php. Used with permission. 
 
-Encounter tables, monster stats, and transformations used by the program are believed to be correct. Please let me know if you find any bugs.
+Data and algorithms used by the program are believed to be correct. Please let me know if you find any bugs.
