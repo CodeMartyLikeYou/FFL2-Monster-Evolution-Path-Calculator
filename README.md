@@ -5,4 +5,4 @@ This program computes the shortest paths for evolving one monster into another i
 
 Installation and usage
 
-This program should work on Windows, Mac, and Linux, although it has only been tested on Windows. First install python 2.7 and networkx. Then clone this repository to any location on your computer and double-click FFL2MonsterEvo.py.
+This program should work on Windows, Mac, and Linux, although it has only been tested on Windows. First install python 2.7 and networkx. Then download this repository to any location on your computer and double-click FFL2MonsterEvo.py.
