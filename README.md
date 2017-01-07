@@ -1,5 +1,4 @@
 # FFL2-Monster-Evolution-Path-Calculator
-Final Fantasy Legend 2 monster evolution path calculator
 
 This program computes the shortest paths for evolving one monster into another in the Game Boy game Final Fantasy Legend 2. 
 
