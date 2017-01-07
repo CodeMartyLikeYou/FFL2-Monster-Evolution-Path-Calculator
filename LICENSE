@@ -25,6 +25,7 @@ ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT
 (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS
 SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
+Data used by this program was sourced from http://www.shenafu.com/ffl2/ffl2.php. Used with permission.
 
 The binary version of this software uses Python 2.7, NetworkX, and Tcl/Tk, and was packaged with PyInstaller. 
 Licenses for these follow.
